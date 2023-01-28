@@ -2,7 +2,7 @@
 # SPDX-FileCopyrightText: © 2023 Soichiro Suzuki
 # SPDX-License-Identifier: BSD-3-Clause
 
-a = int(input('2つの数字を入力することで、「足し算・引き算・掛け算・割り算・べき乗」の計算が>できます。\n\n最初の数字を入力してください: '))
+a = int(input('2つの数字を入力することで、「足し算・引き算・掛け算・割り算・べき乗」の計算ができます。\n\n最初の数字を入力してください: '))
 b = int(input('最後の数字を入力してください: '))
 
 print(a + b)
