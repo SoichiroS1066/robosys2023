@@ -1,6 +1,5 @@
 # robosys2023
 ロボットシステム学の課題3用
-![test](https://github.com/SoichiroS1066/robosys2023/actions/workflows/test.yml/badge.svg)
 
 ## はじめに
 このソフトウェアは千葉工業大学未来先進工学部未来ロボティクス学科2年後期「ロボットシステム学」の課題用に作成したものです。
@@ -30,7 +29,6 @@ $ ./keisan
 2
 0.5
 1 
-・・・
 ```
 
 ## 必要なソフトウェア
@@ -38,7 +36,6 @@ $ ./keisan
   * テスト済み: 3.7 ～ 3.10
 
 ## テスト環境
-* GitHub Actions
 * Ubuntu 20.04
 * Python 3.7 ～ 3.10
 
