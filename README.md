@@ -32,3 +32,7 @@ $
 * GitHub Actions
 * Ubuntu 20.04
 * Python 3.7 ～ 3.10
+
+## ライセンス 
+* このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます。
+* © 2023 Soichiro Suzuki
